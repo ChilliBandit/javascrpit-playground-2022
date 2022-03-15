@@ -1,4 +1,5 @@
-console.log("Hello world!")
+console.log("Hello")
+console.log("Phoenix Binnie-Genet")
 // TODO:
 
 // NOTE:
